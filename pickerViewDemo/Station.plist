@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>基隆市</key>
+	<key>01基隆市</key>
 	<array>
 		<string>三坑</string>
 		<string>八堵</string>
@@ -11,7 +11,7 @@
 		<string>海科館</string>
 		<string>暖暖</string>
 	</array>
-	<key>新北市</key>
+	<key>02新北市</key>
 	<array>
 		<string>五堵</string>
 		<string>汐止</string>
@@ -38,14 +38,14 @@
 		<string>八斗子</string>
 		<string>四腳亭</string>
 	</array>
-	<key>台北市</key>
+	<key>03台北市</key>
 	<array>
 		<string>南港</string>
 		<string>松山</string>
 		<string>台北</string>
 		<string>萬華</string>
 	</array>
-	<key>桃園市</key>
+	<key>04桃園市</key>
 	<array>
 		<string>桃園</string>
 		<string>內壢</string>
@@ -55,7 +55,7 @@
 		<string>富岡</string>
 		<string>新富</string>
 	</array>
-	<key>新竹縣</key>
+	<key>05新竹縣</key>
 	<array>
 		<string>北湖</string>
 		<string>湖口</string>
@@ -72,7 +72,7 @@
 		<string>富貴</string>
 		<string>內灣</string>
 	</array>
-	<key>新竹市</key>
+	<key>06新竹市</key>
 	<array>
 		<string>北新竹</string>
 		<string>千甲</string>
@@ -81,7 +81,7 @@
 		<string>三姓橋</string>
 		<string>香山</string>
 	</array>
-	<key>苗栗縣</key>
+	<key>07苗栗縣</key>
 	<array>
 		<string>崎頂</string>
 		<string>竹南</string>
@@ -100,7 +100,7 @@
 		<string>銅鑼</string>
 		<string>三義</string>
 	</array>
-	<key>台中市</key>
+	<key>08台中市</key>
 	<array>
 		<string>日南</string>
 		<string>大甲</string>
@@ -126,7 +126,7 @@
 		<string>新烏日</string>
 		<string>成功</string>
 	</array>
-	<key>彰化縣</key>
+	<key>09彰化縣</key>
 	<array>
 		<string>彰化</string>
 		<string>花壇</string>
@@ -138,7 +138,7 @@
 		<string>二水</string>
 		<string>源泉</string>
 	</array>
-	<key>南投縣</key>
+	<key>10南投縣</key>
 	<array>
 		<string>濁水</string>
 		<string>龍泉</string>
@@ -146,7 +146,7 @@
 		<string>水里</string>
 		<string>車埕</string>
 	</array>
-	<key>雲林縣</key>
+	<key>11雲林縣</key>
 	<array>
 		<string>林內</string>
 		<string>石榴</string>
@@ -154,19 +154,19 @@
 		<string>斗南</string>
 		<string>石龜</string>
 	</array>
-	<key>嘉義縣</key>
+	<key>12嘉義縣</key>
 	<array>
 		<string>大林</string>
 		<string>民雄</string>
 		<string>水上</string>
 		<string>南靖</string>
 	</array>
-	<key>嘉義市</key>
+	<key>13嘉義市</key>
 	<array>
 		<string>嘉北</string>
 		<string>嘉義</string>
 	</array>
-	<key>台南市</key>
+	<key>14台南市</key>
 	<array>
 		<string>後壁</string>
 		<string>新營</string>
@@ -186,7 +186,7 @@
 		<string>長榮大學</string>
 		<string>沙崙</string>
 	</array>
-	<key>高雄市</key>
+	<key>15高雄市</key>
 	<array>
 		<string>大湖</string>
 		<string>路竹</string>
@@ -207,7 +207,7 @@
 		<string>後庄</string>
 		<string>九曲堂</string>
 	</array>
-	<key>屏東縣</key>
+	<key>16屏東縣</key>
 	<array>
 		<string>六塊厝</string>
 		<string>屏東</string>
@@ -227,7 +227,7 @@
 		<string>內獅</string>
 		<string>枋山</string>
 	</array>
-	<key>台東縣</key>
+	<key>17台東縣</key>
 	<array>
 		<string>大武</string>
 		<string>瀧溪</string>
@@ -244,7 +244,7 @@
 		<string>海端</string>
 		<string>池上</string>
 	</array>
-	<key>花蓮縣</key>
+	<key>18花蓮縣</key>
 	<array>
 		<string>富里</string>
 		<string>東竹</string>
@@ -272,7 +272,7 @@
 		<string>和仁</string>
 		<string>和平</string>
 	</array>
-	<key>宜蘭市</key>
+	<key>19宜蘭市</key>
 	<array>
 		<string>漢本</string>
 		<string>武塔</string>
